@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/planner/static/css/main.cfcc77f4.css",
+    "main.js": "/planner/static/js/main.fb6d4b45.js",
+    "static/js/156.6a35e1a0.chunk.js": "/planner/static/js/156.6a35e1a0.chunk.js",
+    "index.html": "/planner/index.html",
+    "main.cfcc77f4.css.map": "/planner/static/css/main.cfcc77f4.css.map",
+    "main.fb6d4b45.js.map": "/planner/static/js/main.fb6d4b45.js.map",
+    "156.6a35e1a0.chunk.js.map": "/planner/static/js/156.6a35e1a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfcc77f4.css",
+    "static/js/main.fb6d4b45.js"
+  ]
+}
