@@ -1,0 +1,65 @@
+.task-table {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: 50px auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.task-header {
+  display: flex;
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.task-row {
+  display: flex;
+  border-bottom: 1px solid #ddd;
+}
+
+.task-cell {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+  border-right: 1px solid #ddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.task-desc {
+  flex: 2;
+}
+
+.task-cell textarea {
+  width: 100%;
+  height: 60px;
+  padding: 8px;
+  resize: none;
+  font-size: 14px;
+}
+
+.task-cell input,
+.task-cell button {
+  width: 90%;
+  padding: 5px;
+  font-size: 14px;
+}
+
+.task-cell button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.task-cell button:hover {
+  background-color: #45a049;
+}
+
+
+.task-row-active {
+  background-color: #e0f7fa;
+}
+
